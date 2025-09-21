@@ -1,2 +1,0 @@
-the index page
-
